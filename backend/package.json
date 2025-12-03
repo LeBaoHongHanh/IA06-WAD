@@ -1,5 +1,5 @@
 {
-  "name": "ia03-backend",
+  "name": "ia06-backend",
   "version": "1.0.0",
   "description": "User registration API (NestJS) for IA03 assignment",
   "scripts": {
